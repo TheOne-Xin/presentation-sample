@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">presentation-sample</string>
+    <string name="show_presentation">显示副屏</string>
+    <string name="close_presentation">关闭副屏</string>
+    <string name="presentation_page">当前是副屏页面</string>
+    <string name="show_dialog">在主屏上弹出对话框</string>
+    <string name="dismiss">关闭副屏</string>
+</resources>
